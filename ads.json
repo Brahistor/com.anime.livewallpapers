@@ -43,9 +43,9 @@
 "ShowCategories":true
   },
   "Paywall1":{
-    "ShowHardPaywall":true,
+    "ShowHardPaywall":false,
     "ShowHardPaywallFor":5,
-    "ShowTrial":true,
+    "ShowTrial":false,
     "LifeTimeSKu":"com.anime.livewallpapers.lifetime",
     "LifeTimePrice":"$39.99 / Lifetime",
     "MonthlySKu":"com.anime.livewallpapers.monthly",
@@ -54,13 +54,13 @@
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall2":{
-    "ShowHardPaywall":true,
+    "ShowHardPaywall":false,
     "ShowHardPaywallFor":5,
     "AnnualSKu":"com.anime.livewallpapers.year",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall3":{
-    "ShowHardPaywall":true,
+    "ShowHardPaywall":false,
     "ShowHardPaywallFor":5,
     "LifeTimeSKu":"com.anime.livewallpapers.lifetime",
     "LifeTimePrice":"$39.99"
