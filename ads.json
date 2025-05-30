@@ -39,7 +39,7 @@
     "UpdateVersion": 6,
     "ShowMockupData": false,
     "UpdateFromAmazon": true,
-    "ShowRewardAndSubscribe": false,
+    "ShowRewardAndSubscribe": true,
     "ShowCategories": true
   },
   "Paywall1": {
