@@ -1,6 +1,6 @@
 {
   "AdsManager": {
-    "ShowAds":fals,
+    "ShowAds":false,
     "NormalClickCount":1,
     "AdmobClickCount":9,
     "ShowLoadingAds":false,
